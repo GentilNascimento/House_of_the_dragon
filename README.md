@@ -7,7 +7,7 @@ O estilo e layout do site são gerenciados através de CSS3, com ênfase em Flex
 ## Responsividade
 Foram implementadas media queries para ajustar o layout em diferentes larguras de tela, como 1280px, 768px e 425px. Isso garante que o site funcione corretamente tanto em telas grandes quanto em dispositivos móveis.
 
-## Vídeo
+## O vídeo de demostração não deve rodar no navegador mais você pode baixar.
 <video width="640" height="360" controls>
   <source src="videos/video_House_of_the_Dragon.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
